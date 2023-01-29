@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dojoblog.git/static/css/main.d3dc8c1d.css",
-    "main.js": "/dojoblog.git/static/js/main.f523537a.js",
-    "index.html": "/dojoblog.git/index.html",
-    "main.d3dc8c1d.css.map": "/dojoblog.git/static/css/main.d3dc8c1d.css.map",
-    "main.f523537a.js.map": "/dojoblog.git/static/js/main.f523537a.js.map"
+    "main.css": "/dojoblog/static/css/main.d3dc8c1d.css",
+    "main.js": "/dojoblog/static/js/main.f523537a.js",
+    "index.html": "/dojoblog/index.html",
+    "main.d3dc8c1d.css.map": "/dojoblog/static/css/main.d3dc8c1d.css.map",
+    "main.f523537a.js.map": "/dojoblog/static/js/main.f523537a.js.map"
   },
   "entrypoints": [
     "static/css/main.d3dc8c1d.css",
