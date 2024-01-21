@@ -9,6 +9,7 @@ const Home = () => {
     setTimeout(() => {
       fetch("http://localhost:8000/blogs")
         .then((res) => {
+          console.log(res);
           return res.json();
         })
         .then((data) => {
@@ -17,8 +18,9 @@ const Home = () => {
         })
         .catch((err) => {
           console.log(err.message);
+          console.log("hillo");
         });
-    }, 1000);
+    }, 1);
   }, []);
 
   return (
